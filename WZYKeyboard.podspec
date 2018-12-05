@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "An easy to use keyboard, you can get sent content and keyboard up and down callback."
   s.description  = <<-DESC
-An easy to use keyboard, you can get sent content and keyboard up and down callback.
+An easy to use keyboard, you can get sent content and keyboard up and down callback.At present, the language is Swift 4.1, so you can try to integrate download.
                    DESC
   s.homepage     = "https://github.com/CoderZYWang/WZYKeyboard"
   s.license      = "MIT"
