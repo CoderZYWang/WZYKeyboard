@@ -15,4 +15,5 @@ An easy to use keyboard, you can get sent content and keyboard up and down callb
   s.source_files  = "WZYKeyboard/*.{h,m,swift}"
   s.frameworks = 'UIKit', 'Foundation'
   s.requires_arc = true
+  s.ios.deployment_target = '9.0'
 end
